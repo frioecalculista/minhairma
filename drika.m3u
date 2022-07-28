@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd41045d5aac300fc8cf9db84c58645.jpg" group-title="Animes/Desenhos",AMC TV
+https://stmv1.painelvideo.top/canalamc/canalamc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Animes/Desenhos",AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="Animes/Desenhos",AnimeTV
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14344/thumb_image_2022-06-23_08-04-53.png" group-title="Animes/Desenhos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13833/thumb_KURIAKOS_KIDS_.png" group-title="Animes/Desenhos",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://tm.ibxk.com.br/2021/05/27/27194011906433.jpg?ims=704x264" group-title="Animes/Desenhos",Loading°
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12265/thumb_MURILO_TV_-_Dourda.png" group-title="Animes/Desenhos",Murilo TV
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/REDE-CLONE-TV-live-vipotv-brazil.png" group-title="Animes/Desenhos",Rede Clone
+https://alanza.iptv2022.com/Clone_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/retro-cartoon-live-vipotv.png" group-title="Animes/Desenhos", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXKbqcm.png" group-title="Animes/Desenhos",StrikerVerso
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/Toon_Goggles_190x190Circle.jpg?$212_119_PNG$" group-title="Animes/Desenhos",Toon Goggle
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQyKQOMOuu-ZL5Ub-V95U7BvBhjVDUxteSO3mMUk5D5E1YVaUlIB1iYrS4BR_k4G_LVwDAxMTKVC_m2mj6-VVJcMm5tHxtpOjNcu5cRHsP9v11cso8P4Lo8bB816IrBby2a12f3P1Fknogg3dz4Ej8CFAwe8RLJEfynsCcCRYlGmNFmRIjlYl_qqAaZw=s1280" group-title="Animes/Desenhos",Tuboo
+https://stmv1.samcast.com.br/talitacristina2019/talitacristina2019/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8616aaff4b962f7f674d860e5fdeee9a.jpg" group-title="Animes/Desenhos",TVBS
+https://srv1.zcast.com.br/tvbs/tvbs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13427/thumb_TV_KIDMAIS.png" group-title="Animes/Desenhos",TV Kids Mais
+https://alanza.iptv2022.com/REDE_NOVA_FAMILIA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/logo-urbankids.jpg" group-title="Animes/Desenhos",Ürban Kids
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?NOOXTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtremetv.com.br/images/images_1.jpeg" group-title="Animes/Desenhos",Xtreme TV
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist.m3u8
