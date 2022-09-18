@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png?20180918053325" group-title="" ,Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 group-title="CLARO TV 2" tvg-name="A&E" ,A&E
 http://189.91.128.146:4444/udp/227.10.20.129:1234
 #EXTINF:-1 group-title="CLARO TV 2" tvg-name="AgroMinas TV" ,AgroMinas TV
